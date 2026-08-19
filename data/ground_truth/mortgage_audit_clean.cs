@@ -1,0 +1,11 @@
+loan_id,borrower_name,ssn_mask,loan_amount,interest_rate,closing_date,property_zip,status
+L-88201,Nathaniel Richardson,***-**-4491,450250.00,0.0625,2024-01-12,90210,APPROVED
+L-88202,Samantha Sterling-Archer,***-**-1102,125400.50,0.0575,2024-01-14,33101,PENDING
+L-88203,Christopher Montgomery,***-**-9983,892000.00,0.0710,2024-01-15,10001,DENIED
+L-88204,Elizabeth O'Connor,***-**-2234,310550.75,0.0600,2024-01-15,60601,APPROVED
+L-88205,Jonathan Van-Halen,***-**-5567,525000.00,0.0550,2024-01-16,75201,APPROVED
+L-88206,Maria Garcia-Lopez,***-**-8812,275000.00,0.0645,2024-01-17,80202,PENDING
+L-88207,William Fitzwilliam,***-**-3345,980400.00,0.0725,2024-01-18,94102,APPROVED
+L-88208,Alexandra D'Souza,***-**-7721,415000.25,0.0590,2024-01-18,30303,DENIED
+L-88209,Michael Thompson-Smythe,***-**-4456,612000.00,0.0615,2024-01-19,02108,APPROVED
+L-88210,Robert J. Miller,***-**-1212,185000.00,0.0525,2024-01-20,19103,APPROVED
