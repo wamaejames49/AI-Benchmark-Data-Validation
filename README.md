@@ -35,4 +35,4 @@ The included rubric assesses AI agents on:
 I am a Data Validation and AI Training specialist focused on building the human intelligence layer for frontier AI. I specialize in creating complex evaluation tasks that ensure AI agents perform with the precision required for audit-sensitive industries.
 
 ---
-*This project is part of a portfolio for micro1 expert contributions.*
+*This project is part of a portfolio to showcase my abilities.*
